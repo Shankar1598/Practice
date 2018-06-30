@@ -26,15 +26,5 @@ public class SubMatrixAdd {
                 System.out.println(sum);
             }
         }
-
-
-    }
-
-    private static int[] getIntArray(String[] s){
-        int[] ints = new int[s.length];
-        for (int i = 0; i < s.length; i++) {
-            ints[i] = Integer.parseInt(s[i]);
-        }
-        return ints;
     }
 }

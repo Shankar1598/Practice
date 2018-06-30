@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a53b4691-99a8-41a8-9571-7cccaa57ce1a" name="Default" comment="" />
+    <list default="true" id="a53b4691-99a8-41a8-9571-7cccaa57ce1a" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MatrixSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MatrixSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SubMatrixAdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SubMatrixAdd.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -86,11 +91,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MatrixSearch.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="MatrixSearch.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/MatrixSearch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="34" selection-start-line="34" selection-end-line="34" />
+            <state relative-caret-position="155">
+              <caret line="47" column="60" lean-forward="true" selection-start-line="47" selection-start-column="60" selection-end-line="47" selection-end-column="60" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -98,11 +103,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SubMatrixAdd.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SubMatrixAdd.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SubMatrixAdd.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
-              <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+            <state relative-caret-position="136">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -116,6 +121,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -127,8 +135,8 @@
         <option value="$PROJECT_DIR$/src/Substring.java" />
         <option value="$PROJECT_DIR$/src/MergeSet.java" />
         <option value="$PROJECT_DIR$/src/PrintArrWithRec.java" />
-        <option value="$PROJECT_DIR$/src/MatrixSearch.java" />
         <option value="$PROJECT_DIR$/src/SubMatrixAdd.java" />
+        <option value="$PROJECT_DIR$/src/MatrixSearch.java" />
       </list>
     </option>
   </component>
@@ -147,6 +155,7 @@
     <option name="width" value="1750" />
     <option name="height" value="985" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -191,7 +200,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SubMatrixAdd">
+  <component name="RunManager" selected="Application.MatrixSearch">
     <configuration name="AlternateSort" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="AlternateSort" />
       <module name="Practice" />
@@ -259,16 +268,15 @@
       <workItem from="1527469879595" duration="41000" />
       <workItem from="1527560445382" duration="43000" />
       <workItem from="1528035391777" duration="7122000" />
-      <workItem from="1530320363325" duration="20414000" />
+      <workItem from="1530320363325" duration="22754000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29892000" />
+    <option name="totallyTimeSpent" value="32232000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -277,7 +285,7 @@
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50067115" side_tool="true" weight="0.3497191" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49932885" visible="true" weight="0.3497191" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Designer" order="2" />
@@ -304,7 +312,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="7" />
+      <option name="time" value="8" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -401,20 +409,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MatrixSearch.java">
+    <entry file="file://$PROJECT_DIR$/src/SubMatrixAdd.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SubMatrixAdd.java">
+    <entry file="file://$PROJECT_DIR$/src/MatrixSearch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        <state relative-caret-position="155">
+          <caret line="47" column="60" lean-forward="true" selection-start-line="47" selection-start-column="60" selection-end-line="47" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
