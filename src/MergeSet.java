@@ -2,7 +2,6 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 
-//Awesome algo
 public class MergeSet {
     static ArrayList<Integer> res = new ArrayList<>();
 
